@@ -45,7 +45,7 @@
 
 ---
 
-## 📂 프로젝트 구조
+## 프로젝트 구조
 ```bash
 ├── 📁 dataset/
 │   ├── client_times.txt
@@ -75,7 +75,7 @@ python main_comparison.py
 ```
 PPO 에이전트 학습 후 휴리스틱 모델이 실행되며, 최종적으로 두 모델의 성능 비교 그래프가 출력됩니다.
 
-### 📈 결과 분석
+### 결과 분석
 실험 결과, PPO 에이전트는 휴리스틱 모델보다 **더 높은 처리량(완료된 작업 수)**을 달성했습니다.
 <img width="1400" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/b30648fe-0bf5-4f14-9c47-de75994b75c9" />
 
