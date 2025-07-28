@@ -54,7 +54,7 @@
 ├── main_comparison.py
 ├── environment.py
 ├── ppo_agent.py
-├──  config.py
+├── config.py
 ├── time_models.py
 ├── data_loader.py
 └── README.md
