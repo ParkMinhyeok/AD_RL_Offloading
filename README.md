@@ -47,17 +47,17 @@
 
 ## 프로젝트 구조
 ```bash
-├── 📁 dataset/
+├── dataset/
 │   ├── client_times.txt
 │   └── server_times(x10).txt
 │
-├── 🚀 main_comparison.py
-├── 🌍 environment.py
-├── 🤖 ppo_agent.py
-├── ⚙️ config.py
-├── ⏰ time_models.py
-├── 💾 data_loader.py
-└── 📖 README.md
+├── main_comparison.py
+├── environment.py
+├── ppo_agent.py
+├──  config.py
+├── time_models.py
+├── data_loader.py
+└── README.md
 ```
 
 ---
