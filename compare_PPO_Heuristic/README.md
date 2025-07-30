@@ -49,7 +49,7 @@
 ```bash
 ├── dataset/
 │   ├── client_times.txt
-│   └── server_times(x10).txt
+│   └── server_times(x10).txt  #서버 처리 시간을 10배 늘림 
 │
 ├── main_comparison.py
 ├── environment.py
